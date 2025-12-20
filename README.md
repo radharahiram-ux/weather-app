@@ -4,7 +4,7 @@ A simple, clean, and beginner‑friendly **Weather Web Application** that allows
 
 ---
 
-## 📌 Features
+# 📌 Features
 
 * 🌍 Search weather by city name
 * 📍 Default location support (Mathura, Uttar Pradesh)
